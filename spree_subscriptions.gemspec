@@ -7,9 +7,9 @@ require "spree_subscriptions/version"
 Gem::Specification.new do |s|
   s.name        = "spree_subscriptions"
   s.version     = SpreeSubscriptions::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
+  s.author    = 'NebuLab'
+  s.email     = 'info@nebulab.it'
+  s.homepage  = 'http://nebulab.it'
   s.summary     = "TODO: Summary of SpreeSubscriptions."
   s.description = "TODO: Description of SpreeSubscriptions."
 
