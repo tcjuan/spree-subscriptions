@@ -1,0 +1,16 @@
+/*
+ *= require admin/spree_backend
+*/
+
+.magazine_issue {
+  width: 600px;
+  float: left;
+  display: inline;
+
+}
+
+.magazine_issue img {
+  margin-right: 20px;
+  float: left;
+  display: inline;
+}
