@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.author    = 'NebuLab'
   s.email     = 'info@nebulab.it'
   s.homepage  = 'http://nebulab.it'
-  s.summary     = "TODO: Summary of SpreeSubscriptions."
-  s.description = "TODO: Description of SpreeSubscriptions."
+  s.summary     = "Summary of SpreeSubscriptions. for 2-1-stable"
+  s.description = "Description of SpreeSubscriptions for 2-1-stable"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
