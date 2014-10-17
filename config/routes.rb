@@ -5,7 +5,7 @@ Spree::Core::Engine.routes.append do
     end
     resources :products, :as => :magazines do
       resources :issues, :controller => "products/issues"
-      match "issues/:id/ship", :to => "products/issues#ship", :via => :get, :as => :issue_ship
+      match "issues/:id/ship", :to => "products/issues#ship", :via => :get
     end
   end
 end
